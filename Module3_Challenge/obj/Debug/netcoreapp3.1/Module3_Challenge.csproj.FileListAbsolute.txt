@@ -1,0 +1,11 @@
+C:\Users\templ\Desktop\School\2040\Module3_Challenge\bin\Debug\netcoreapp3.1\Module3_Challenge.exe
+C:\Users\templ\Desktop\School\2040\Module3_Challenge\bin\Debug\netcoreapp3.1\Module3_Challenge.deps.json
+C:\Users\templ\Desktop\School\2040\Module3_Challenge\bin\Debug\netcoreapp3.1\Module3_Challenge.runtimeconfig.json
+C:\Users\templ\Desktop\School\2040\Module3_Challenge\bin\Debug\netcoreapp3.1\Module3_Challenge.runtimeconfig.dev.json
+C:\Users\templ\Desktop\School\2040\Module3_Challenge\bin\Debug\netcoreapp3.1\Module3_Challenge.dll
+C:\Users\templ\Desktop\School\2040\Module3_Challenge\bin\Debug\netcoreapp3.1\Module3_Challenge.pdb
+C:\Users\templ\Desktop\School\2040\Module3_Challenge\obj\Debug\netcoreapp3.1\Module3_Challenge.csprojAssemblyReference.cache
+C:\Users\templ\Desktop\School\2040\Module3_Challenge\obj\Debug\netcoreapp3.1\Module3_Challenge.AssemblyInfoInputs.cache
+C:\Users\templ\Desktop\School\2040\Module3_Challenge\obj\Debug\netcoreapp3.1\Module3_Challenge.AssemblyInfo.cs
+C:\Users\templ\Desktop\School\2040\Module3_Challenge\obj\Debug\netcoreapp3.1\Module3_Challenge.dll
+C:\Users\templ\Desktop\School\2040\Module3_Challenge\obj\Debug\netcoreapp3.1\Module3_Challenge.pdb

@@ -1,0 +1,11 @@
+C:\Users\templ\Desktop\School\2040\DocumentChallenge\DocumentChallenge\bin\Debug\netcoreapp3.1\DocumentChallenge.exe
+C:\Users\templ\Desktop\School\2040\DocumentChallenge\DocumentChallenge\bin\Debug\netcoreapp3.1\DocumentChallenge.deps.json
+C:\Users\templ\Desktop\School\2040\DocumentChallenge\DocumentChallenge\bin\Debug\netcoreapp3.1\DocumentChallenge.runtimeconfig.json
+C:\Users\templ\Desktop\School\2040\DocumentChallenge\DocumentChallenge\bin\Debug\netcoreapp3.1\DocumentChallenge.runtimeconfig.dev.json
+C:\Users\templ\Desktop\School\2040\DocumentChallenge\DocumentChallenge\bin\Debug\netcoreapp3.1\DocumentChallenge.dll
+C:\Users\templ\Desktop\School\2040\DocumentChallenge\DocumentChallenge\bin\Debug\netcoreapp3.1\DocumentChallenge.pdb
+C:\Users\templ\Desktop\School\2040\DocumentChallenge\DocumentChallenge\obj\Debug\netcoreapp3.1\DocumentChallenge.AssemblyInfoInputs.cache
+C:\Users\templ\Desktop\School\2040\DocumentChallenge\DocumentChallenge\obj\Debug\netcoreapp3.1\DocumentChallenge.AssemblyInfo.cs
+C:\Users\templ\Desktop\School\2040\DocumentChallenge\DocumentChallenge\obj\Debug\netcoreapp3.1\DocumentChallenge.dll
+C:\Users\templ\Desktop\School\2040\DocumentChallenge\DocumentChallenge\obj\Debug\netcoreapp3.1\DocumentChallenge.pdb
+C:\Users\templ\Desktop\School\2040\DocumentChallenge\DocumentChallenge\obj\Debug\netcoreapp3.1\DocumentChallenge.csprojAssemblyReference.cache
